@@ -8,6 +8,7 @@
 ### Primary Type: Type of crime committed 
 ### Beat: Police beat in which the crime was committed 
 ### Location Description: Location in which the crime was committed 
+### Community Area: Number indicating community area in which crime was committed 
 
 # Data Sources:
 
