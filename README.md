@@ -1,11 +1,13 @@
 # Final-Project
 
-### Data Dictionary of Relevant Variables
+### This repository contains the data files used in my final project for Data Management: ### Crime in Chicago: An Analysis of City-Wide Crime Rates
 
-## Arrest: Binary indicator. 0 for Non-Arrests. 1 for Arrests. 
-## Primary Type: Type of crime committed 
-## Beat: Police beat in which the crime was committed 
-## Location Description: Location in which the crime was committed 
+# Data Dictionary of Relevant Variables
+
+### Arrest: Binary indicator. 0 for Non-Arrests. 1 for Arrests. 
+### Primary Type: Type of crime committed 
+### Beat: Police beat in which the crime was committed 
+### Location Description: Location in which the crime was committed 
 
 # Data Sources:
 
