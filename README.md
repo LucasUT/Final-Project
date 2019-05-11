@@ -2,10 +2,10 @@
 
 ### Data Dictionary of Relevant Variables
 
-#### Arrest: Binary indicator. 0 for Non-Arrests. 1 for Arrests. 
-#### Primary Type: Type of crime committed 
-#### Beat: Police beat in which the crime was committed 
-#### Location Description: Location in which the crime was committed 
+## Arrest: Binary indicator. 0 for Non-Arrests. 1 for Arrests. 
+## Primary Type: Type of crime committed 
+## Beat: Police beat in which the crime was committed 
+## Location Description: Location in which the crime was committed 
 
 # Data Sources:
 
