@@ -1,4 +1,4 @@
-# Final-Project
+# Final Project
 
 ### This repository contains the data files used in my final project for Data Management:  Crime in Chicago: An Analysis of City-Wide Crime Rates
 
